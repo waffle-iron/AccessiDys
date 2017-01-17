@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/AccessiDys/AccessiDys.png?label=ready&title=Ready)](https://waffle.io/AccessiDys/AccessiDys)
 French version :  below.
 
 Version française : plus bas.
